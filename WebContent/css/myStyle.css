@@ -1,0 +1,50 @@
+.bg-page{
+	border-style: solid;
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #713074;
+    text-align:center;
+}
+
+label{
+	color: white;
+    display: inline-block;
+    max-width: 100%;
+    
+}
+
+textarea{
+	width:64%;
+}
+
+
+
+.green-input{
+  border-style: hidden;
+  background-color: green;
+  width: 30%;
+  margin-left: 50px;
+  float:left;
+  height:30px;
+}
+.orange-input{
+	border-style: hidden;
+  background-color: orange;
+  width: 30%;
+  float:left;
+  height:30px;
+   margin-left: 20px;
+}
+
+.selected{
+	color:orange;
+}
+
+h2{
+	color:green;
+}
+
+
+
